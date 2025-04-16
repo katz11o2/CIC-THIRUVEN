@@ -161,7 +161,7 @@
 	  
   
 	<!-- Circles and Line Group -->
-	<div class="absolute right-8 top-55 transform -translate-y-1/2 flex flex-col items-start space-y-8">
+	<div class="absolute right-0 top-55 transform -translate-y-1/2 flex flex-col items-start space-y-8">
 		<!-- 
 		<div class="w-[2px] h-[240px] bg-gradient-to-b from-gray-500 to-gray-500 absolute right-56.5 top-0 z-0"></div>
 	  Line -->
